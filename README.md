@@ -1,3 +1,9 @@
 # Banknote Authentication
-##### Scenario
-You are a shop owner, and you do not want to lose money getting fake banknote. However, you do not have enough budget to 
+
+### Scenario
+You are a shop owner, and you do not want to lose money getting fake banknotes. However, you do not have enough budget for an advanced instrument that verifies banknotes directly through images, which is probably fast and accurate. The only instrument you can use is an old black-box like machine. This old black box contains an industrial camera taking low-resoulution grey-scale images. The machine will output a rough analysis on the grey-scale images after the camera takes image of a banknote, providing some numerical values about banknote imaging features. Exploiting the numerical values of the banknote grey-scale imaging features, you want to make this old black-box like machine to work as a true-or-fake banknote exminator.
+
+### Data
+Data can be downloaded from https://archive.ics.uci.edu/dataset/267/banknote+authentication
+
+### Methods and results
