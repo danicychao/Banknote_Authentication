@@ -15,9 +15,7 @@ We are a shop co-owner, and we do not want to lose money getting fake banknotes.
 
 <img src="figures/variance_dist.png" style="width:500px;"> <img src="figures/skewness_dist.png" style="width:500px;">
 
-<p align="center">
 <img src="figures/ROCurve.png" style="width:400px;">
-</p>
 
 ## Unsupervised learning: [K-Means clustering](https://github.com/danicychao/banknote_authentication/blob/main/banknote_clustering.ipynb)
 
